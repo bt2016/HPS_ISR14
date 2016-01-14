@@ -6,8 +6,8 @@
 #define OLED_PRINTING_H
 
 #include <Wire.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
+#include <oled_Adafruit_GFX.h>
+#include <oled_Adafruit_SSD1306.h>
 
 struct HPSVals
 {
